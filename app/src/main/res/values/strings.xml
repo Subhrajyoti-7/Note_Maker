@@ -2,4 +2,8 @@
     <string name="app_name">Note Maker</string>
     <string name="todo1">TODO</string>
     <string name="todo2">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="details_note">details Note</string>
+    <string name="textview">TextView</string>
+    <string name="enter_note_here">Enter Note Here</string>
 </resources>
